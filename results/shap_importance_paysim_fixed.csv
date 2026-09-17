@@ -1,0 +1,15 @@
+experiment,feature,mean_abs_shap
+paysim_fixed,errorBalanceOrig,7.0506434
+paysim_fixed,newbalanceOrig,3.4748352
+paysim_fixed,amount,1.4884943
+paysim_fixed,oldbalanceDest,1.0081663
+paysim_fixed,hourOfDay,0.7933431
+paysim_fixed,type_TRANSFER,0.66409326
+paysim_fixed,oldbalanceOrg,0.630512
+paysim_fixed,newbalanceDest,0.62602305
+paysim_fixed,errorBalanceDest,0.50773335
+paysim_fixed,type_CASH_OUT,0.49247038
+paysim_fixed,destIsMerchant,0.47124293
+paysim_fixed,type_PAYMENT,0.055894427
+paysim_fixed,type_CASH_IN,0.018057618
+paysim_fixed,type_DEBIT,0.0040209875

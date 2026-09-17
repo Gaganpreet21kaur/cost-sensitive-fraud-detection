@@ -1,0 +1,25 @@
+experiment,criterion,target,achieved,met
+creditcard_fixed,Cost reduction vs baseline @0.5 (%),at least 20.0,22.9135,True
+creditcard_fixed,Recall,at least 0.7,0.8586,True
+creditcard_fixed,Value recall,at least 0.7,0.7461,True
+creditcard_fixed,Alert rate,at most 0.02,0.0019,True
+creditcard_fixed,AUPRC,at least 0.6,0.8514,True
+creditcard_fixed,McNemar p-value,at most 0.05,0.0106,True
+creditcard_instance,Cost reduction vs baseline @0.5 (%),at least 20.0,1.354,False
+creditcard_instance,Recall,at least 0.7,0.8586,True
+creditcard_instance,Value recall,at least 0.7,0.7461,True
+creditcard_instance,Alert rate,at most 0.02,0.0017,True
+creditcard_instance,AUPRC,at least 0.6,0.8669,True
+creditcard_instance,McNemar p-value,at most 0.05,1.0,False
+paysim_fixed,Cost reduction vs baseline @0.5 (%),at least 20.0,-293.2796,False
+paysim_fixed,Recall,at least 0.7,0.9981,True
+paysim_fixed,Value recall,at least 0.7,0.9999,True
+paysim_fixed,Alert rate,at most 0.02,0.0033,True
+paysim_fixed,AUPRC,at least 0.6,0.9981,True
+paysim_fixed,McNemar p-value,at most 0.05,0.125,False
+paysim_instance,Cost reduction vs baseline @0.5 (%),at least 20.0,-12.4849,False
+paysim_instance,Recall,at least 0.7,0.996,True
+paysim_instance,Value recall,at least 0.7,0.9999,True
+paysim_instance,Alert rate,at most 0.02,0.0033,True
+paysim_instance,AUPRC,at least 0.6,0.9995,True
+paysim_instance,McNemar p-value,at most 0.05,0.0001,True

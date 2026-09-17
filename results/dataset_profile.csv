@@ -1,0 +1,3 @@
+dataset,rows,features,frauds,fraud_rate_pct,imbalance_ratio,mean_fraud_amount,total_fraud_value,load_seconds
+creditcard,284807,29,492,0.1727,577.9,122.21,60127.97,26.3
+paysim,6362620,14,8213,0.1291,773.7,1467967.3,12056415427.84,27.6

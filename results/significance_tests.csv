@@ -1,0 +1,5 @@
+b,c,statistic,p_value,test,mean_saving_per_tx,ci_low,ci_high,experiment,baseline,compared_with
+18,5,,0.010622024536132812,exact,0.009843934017266343,0.001017485936208439,0.02091727096982288,creditcard_fixed,XGBoost (baseline) @0.5,XGBoost (cost-sensitive) @cost-optimal
+6,5,,1.0,exact,0.0006146202731645658,-0.000460390260173449,0.0018465775429233524,creditcard_instance,XGBoost (baseline) @0.5,XGBoost (instance-dependent) @cost-optimal
+6,1,,0.125,exact,-6.2359891152442675,-11.462416591677563,-2.019123277621944,paysim_fixed,XGBoost (baseline) @0.5,XGBoost (cost-sensitive) @cost-optimal
+18,1,,7.62939453125e-05,exact,-0.07713085117156787,-0.21923172703539093,0.06338068631172387,paysim_instance,XGBoost (baseline) @0.5,XGBoost (instance-dependent) @cost-optimal

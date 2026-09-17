@@ -1,0 +1,5 @@
+partition,rows,frauds,fraud_rate_pct,fraud_value
+train,170884,295,0.1726,37724.02
+validation A,28480,49,0.1721,8184.52
+validation B,28481,49,0.172,4345.08
+test,56962,99,0.1738,9874.35
